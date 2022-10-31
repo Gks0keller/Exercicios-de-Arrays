@@ -10,7 +10,7 @@ public class pedraPapelTesoura {
 		// TODO Auto-generated method stub
 		int escolha, escolhaM,m=0,e=0;
 
-		for (;(m<3 && e<3);) {
+		for (;(m<2 && e<2);) {
 
 			System.out.println("\n  0 representa pedra\n  1 representa papel\n  2 representa tesoura");
 
